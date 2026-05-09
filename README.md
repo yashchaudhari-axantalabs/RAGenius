@@ -1,5 +1,17 @@
 # 🧠 RAGenius: The Next-Gen Knowledge Assistant
 
+<div align="center">
+  <a href="UPDATES.md">
+    <img src="https://img.shields.io/badge/🚀_Latest_Update-v1.2.0_(Stable)-blue?style=for-the-badge" alt="Latest Update" />
+  </a>
+  <a href="UPDATES.md">
+    <img src="https://img.shields.io/badge/✨_New_Feature-OCR_&_Image_Uploads-success?style=for-the-badge" alt="New Feature" />
+  </a>
+  <br>
+  <b><a href="UPDATES.md">👉 Click here to view the full Changelog & Updates! 👈</a></b>
+</div>
+<br>
+
 **RAGenius** is a state-of-the-art Retrieval-Augmented Generation (RAG) system that bridges the gap between private local privacy and high-reasoning cloud intelligence. Whether you are a privacy-focused researcher or a performance-driven developer, RAGenius provides a seamless, stunning interface to chat with your documents.
 
 
@@ -33,7 +45,7 @@ A premium, modern UI built with **React** and **Tailwind CSS**. Experience real-
 
 *   📖 **[Features & Architecture](docs/FEATURES.md)** - Deep dive into how RAGenius works.
 *   ⚙️ **[Installation & Setup](docs/TUTORIAL.md)** - Get up and running in under 5 minutes.
-*   📈 **[Changelog & Updates](docs/UPDATES.md)** - Track the evolution of the project.
+*   📈 **[Changelog & Updates](UPDATES.md)** - Track the evolution of the project.
 *   🏢 **[About the Project](docs/ABOUT.md)** - Learn about the vision behind Axanta Labs.
 
 ---

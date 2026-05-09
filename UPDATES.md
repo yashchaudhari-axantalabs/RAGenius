@@ -59,5 +59,5 @@ We welcome the GitHub community to help make **RAGenius** even better! If you've
 
 ---
 <div align="center">
-  <b>Stay updated with Axanta Labs.</b>
+  <b>Stay updated with RAGenius.</b>
 </div>

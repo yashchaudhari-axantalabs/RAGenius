@@ -2,10 +2,6 @@
 
 **RAGenius** is a state-of-the-art Retrieval-Augmented Generation (RAG) system that bridges the gap between private local privacy and high-reasoning cloud intelligence. Whether you are a privacy-focused researcher or a performance-driven developer, RAGenius provides a seamless, stunning interface to chat with your documents.
 
-![RAGenius Banner](https://img.shields.io/badge/RAGenius-AI--Powered-blueviolet?style=for-the-badge&logo=openai)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0+-009688?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-18.0.0+-61DAFB?style=for-the-badge&logo=react)
 
 ---
 
